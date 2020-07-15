@@ -1,0 +1,4 @@
+*.log
+/files/code
+.vagrant/
+.idea/
